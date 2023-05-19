@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    fast_config (0.0.3)
+    fast_config (0.0.5)
 
 GEM
   remote: https://rubygems.org/
@@ -14,3 +14,6 @@ PLATFORMS
 DEPENDENCIES
   fast_config!
   minitest (~> 3.0)
+
+BUNDLED WITH
+   2.3.25

@@ -38,3 +38,6 @@
           gamma: "http://127.0.0.1:11211"
           email_domain: "gmail.com"
 
+## Contributors
+
+Thank you to [hoprocker](https://github.com/hoprocker) for update needed for Ruby 3.1
